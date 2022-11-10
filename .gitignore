@@ -1,0 +1,21 @@
+/shareme_frontend/node_modules
+/shareme_frontend/.pnp
+/shareme_frontend/.pnp.js
+/shareme_backend/node_modules
+
+# testing
+/shareme_frontend//coverage
+
+# production
+/shareme_frontend//build
+
+# misc
+/shareme_frontend/.DS_Store
+/shareme_frontend/.env.local
+/shareme_frontend/.env.development.local
+/shareme_frontend/.env.test.local
+/shareme_frontend/.env.production.local
+
+/shareme_frontend/npm-debug.log*
+/shareme_frontend/yarn-debug.log*
+/shareme_frontend/yarn-error.log*
